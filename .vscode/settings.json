@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.smt2": "smt-lib",
+        "fstream": "cpp"
+    }
+}
