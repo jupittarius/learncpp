@@ -3,9 +3,7 @@
 #include <vector>
 #include <string>
 #include <iterator>
-
 using std::string;
-
 int main(){
     std::ifstream ifs("books.txt");
     std::istream_iterator<string> in(ifs), eof;
